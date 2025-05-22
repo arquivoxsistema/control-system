@@ -1,3 +1,6 @@
 {
-  "status": "bloqueado"
+  "clientes": {
+    "2025-05-22 14:28:53": "liberado",
+    "2025-05-20 11:40:02": "bloqueado"
+  }
 }
